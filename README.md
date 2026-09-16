@@ -31,7 +31,7 @@ This GitHub page serves as a central index for publicly available software, comp
 
 ## Project & Publication Code
 
-Code associated with individual research projects and publications will be added here as repositories become publicly available.
+Code associated with individual research projects and publications added here as repositories become publicly available.
 
 | Repository | Project / Study | Publication |
 | --- | --- | --- |
