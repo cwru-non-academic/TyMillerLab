@@ -1,13 +1,16 @@
 <div align="center">
 
-# Ty Miller Lab
+<a href="https://tymillerlab.org">
+  <img src="assets/Ty_Logo_Web_2025B.webp" alt="Miller Lab" width="470">
+</a>
 
-### From Single Cells to Cures
+<h3>Research software, computational workflows, and reproducible analysis code developed by the </h3>
 
-Public software, computational workflows, and research code from the  
-**Ty Miller Lab at Case Western Reserve University School of Medicine**
+<h3>Ty Miller Lab at Case Western Reserve University School of Medicine</h3>
 
 </div>
+
+<br>
 
 ---
 
