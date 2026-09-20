@@ -4,7 +4,7 @@
   <img src="assets/Ty_Logo_Web_2025B.webp" alt="Miller Lab" width="470">
 </a>
 
-<h3>Research software, computational workflows, and reproducible analysis code developed by the </h3>
+<h3>Research software, computational workflows, and analysis code developed by </h3>
 
 <h3>Ty Miller Lab at Case Western Reserve University School of Medicine</h3>
 
