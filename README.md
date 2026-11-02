@@ -27,8 +27,9 @@ This GitHub page serves as a central index for publicly available software, comp
 ## Software & Workflows
 
 | Repository | Description |
-| --- | --- |
+| :---: | --- |
 | [**Calculate Myeloid cNMF Usage**](https://github.com/cwru-non-academic/Calculate_Myeloid_cNMF_Usage) | Tool for calculating consensus myeloid cNMF program usage from single-cell gene-expression data. |
+| [**cnmf-usage-web**](https://github.com/sita-k-patel/cnmf-usage-web) | Browser-based calculator for fixed-reference single-cell program usage in glioma datasets. |
 
 ---
 
@@ -37,9 +38,8 @@ This GitHub page serves as a central index for publicly available software, comp
 Code associated with individual research projects and publications added here as repositories become publicly available.
 
 | Repository | Project / Study | Publication |
-| --- | --- | --- |
-| _Coming soon_ |  |  |
-
+| :---: | --- | :---: |
+| [**Human_Myeloid_Programs_Murine_Ortholog**](https://github.com/cwru-non-academic/Human_Myeloid_Programs_Murine_Ortholog) | Cross-species mapping and comparison of human glioma myeloid programs in murine models. | |
 ---
 
 ## Research Areas
